@@ -28,12 +28,12 @@
 
 다음은 Python의 간단한 코드입니다.
 
-'''python
+```python
 def greet(name);
     print(f"안녕하세요, {name}님!")
 
 greet("변교리")
-'''
+```
 
 ### 링크와 이미지
 
