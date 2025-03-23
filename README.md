@@ -27,19 +27,19 @@
 ### 간단한 코드 예시
 
 다음은 Python의 간단한 코드입니다.
-<pre>
-<code>
+
+'''python
 def greet(name);
     print(f"안녕하세요, {name}님!")
 
 greet("변교리")
-</code>
-</pre>
+'''
+
 ### 링크와 이미지
 
 [Google로 가기](https://google.com)       
 귀여운 고양이 이미지:    
-![고양이사진](https://www.example.com/cat.jpg)
+![고양이사진](https://t3.ftcdn.net/jpg/01/04/40/06/360_F_104400672_zCaPIFbYT1dXdzN85jso7NV8M6uwpKtf.jpg)
 
 ### 할 일 목록
 
